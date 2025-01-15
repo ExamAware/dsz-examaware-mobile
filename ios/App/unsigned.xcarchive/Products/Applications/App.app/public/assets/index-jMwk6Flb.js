@@ -1,0 +1,1 @@
+import{A as o,o as n,L as t,B as r}from"./index-KF56cXUu.js";const p={__name:"index",setup(s){const e=o();return n(()=>{e.push("/mainWindow")}),(a,u)=>(r(),t("p",null,"跳转首页中"))}};export{p as default};

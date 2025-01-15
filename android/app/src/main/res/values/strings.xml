@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DSZ ExamAware</string>
+    <string name="title_activity_main">ExamAware</string>
+    <string name="package_name">org.dsz.examaware</string>
+    <string name="custom_url_scheme">org.dsz.examaware</string>
+</resources>

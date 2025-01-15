@@ -1,0 +1,6 @@
+{
+	"appId": "org.dsz.examaware",
+	"appName": "DSZ ExamAware",
+	"webDir": "dist",
+	"packageClassList": []
+}
